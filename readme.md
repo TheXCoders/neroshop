@@ -1,6 +1,6 @@
 # neroshop 
 
-An attempt to create an online marketplace for [Monero](https://getmonero.org/) users, which is likely to fail
+An attempt to create a p2p marketplace for [Monero](https://getmonero.org/) users, which is likely to fail
 
 [![alt text](res/neroshop-logo.png)](https://github.com/larteyoh/neroshop "neroshop logo")
 
@@ -172,11 +172,6 @@ $250 - fetch a list of monero nodes
 libraries used: ?
 difficulty: intermediate
 job status: not filled
-
-$250 - fetch a list of currency prices from various sources
-libraries used: libcurl, json
-difficulty: intermediate
-job status: taken
 
 $100 - create an organized documentation on the neroshop codebase including functions, classes, etc.
 tools to use: doxygen or any other tools
